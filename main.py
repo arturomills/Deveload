@@ -20,6 +20,7 @@ def ingreso_producto():
 
         else :
             print("El articulo no esta en inventario")
+            print('Hello')
             continuar = True
 
 ingreso_producto()
